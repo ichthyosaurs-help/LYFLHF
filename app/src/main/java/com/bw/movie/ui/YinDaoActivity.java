@@ -22,6 +22,7 @@ import java.util.List;
 
 /**
  * Created by android_lhf：2019/1/24
+ * 这是引导页
  */
 public class YinDaoActivity extends BaseActivity {
     private ViewPager mIn_vp;
